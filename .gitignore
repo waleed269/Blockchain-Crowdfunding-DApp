@@ -1,0 +1,5 @@
+node_modules/
+hardhat-project/artifacts/
+hardhat-project/cache/
+frontend/dist/
+Assignment2.pdf
